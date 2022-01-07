@@ -1,2 +1,0 @@
-# novit.github.io
-test
